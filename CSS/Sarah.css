@@ -16,6 +16,7 @@ p {
 
 ul>li {
   background-color: yellow;
+  padding: 10px;
 }
 
 ol>li {
