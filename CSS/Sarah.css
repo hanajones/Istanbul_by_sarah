@@ -1,5 +1,5 @@
 h1 {
-  color: red;
+  color: #F08080;
   font-family: helvetica;
   font-size: 40px;
     }
@@ -15,13 +15,14 @@ p {
 }
 
 ul {
-  background-color: yellow;
+  background-color: #FFB6C1;
   padding: 10px;
 }
 
 li {
   display: inline;
   padding: 0px 30px 0px 30px;
+
 }
 
 ol>li {
