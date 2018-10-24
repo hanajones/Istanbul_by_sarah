@@ -14,14 +14,14 @@ p {
     color: blue;
 }
 
-ul>li {
+ul {
   background-color: yellow;
   padding: 10px;
 }
 
 li {
   display: inline;
-  
+  padding: 0px 30px 0px 30px;
 }
 
 ol>li {
