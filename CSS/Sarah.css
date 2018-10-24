@@ -1,0 +1,39 @@
+h1 {
+  color: #F08080;
+  font-family: helvetica;
+  font-size: 40px;
+    }
+
+header {
+  text-align: center;
+  background: url("https://lonelyplanetimages.imgix.net/mastheads/64275521.jpg?sharp=10&vib=20&w=1200");
+  background-size: cover;
+  height: 100%;
+  overflow: hidden; 
+}
+
+p {
+    font-family: helvetica;
+    font-size: 16px;
+    color: blue;
+}
+
+ul {
+  background-color: #FFB6C1;
+  padding: 10px;
+}
+
+li {
+  display: inline;
+  padding: 0px 30px 0px 30px;
+
+}
+
+ol>li {
+  background-color: teal;
+}
+
+h2 {
+  background-color: orange;
+  color: green;
+}
