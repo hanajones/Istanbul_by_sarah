@@ -4,13 +4,11 @@ h1 {
   font-size: 40px;
     }
 
-header {
-  text-align: center;
-  background: url("https://lonelyplanetimages.imgix.net/mastheads/64275521.jpg?sharp=10&vib=20&w=1200");
-  background-size: cover;
-  height: 100%;
-  overflow: hidden; 
-}
+body{
+    background: url("https://lonelyplanetimages.imgix.net/mastheads/64275521.jpg?sharp=10&vib=20&w=1200");
+    background-size: 100%;
+    text-align: center;
+  }
 
 p {
     font-family: helvetica;
