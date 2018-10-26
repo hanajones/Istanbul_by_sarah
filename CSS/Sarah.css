@@ -1,37 +1,54 @@
-h1 {
-  color: #F08080;
-  font-family: helvetica;
-  font-size: 40px;
-    }
+header {
+        text-align: center;
+        background: url('https://cdn.getyourguide.com/niwziy2l9cvz/560hVYQxdKMk8AWs4ISGk6/589264e903e0f5f08b63fcc88792e3e4/istanbul-maidens-tower-1112x630.jpg');
+        background-size: cover;
+        color: white;
+        }
 
-body{
-    background: url("https://lonelyplanetimages.imgix.net/mastheads/64275521.jpg?sharp=10&vib=20&w=1200");
-    background-size: 100%;
-    text-align: center;
-  }
+a       {
+        color: white;
+        }
 
-p {
-    font-family: helvetica;
-    font-size: 16px;
-    color: blue;
-}
+body    {
+        background: url("https://lonelyplanetimages.imgix.net/mastheads/64275521.jpg?sharp=10&vib=20&w=1200");
+        background-size: 100%;
+        text-align: center;
+        }
 
-ul {
-  background-color: #FFB6C1;
-  padding: 10px;
-}
+h1      {
+        color: white;
+        font-family: sans-serif;
+        font-size: 40px;
+        }
 
-li {
-  display: inline;
-  padding: 0px 30px 0px 30px;
+p       {
+        font-family: helvetica;
+        font-size: 16px;
+        color: blue;
+        }
 
-}
+ul      {
+        text-align: right;
+        background: white;
+        color: grey
+        font-family: "sans-serif", "arial";
+        font-size: 20px;
+        }
 
-ol>li {
-  background-color: teal;
-}
+.topspace{
+        padding-top: 30px;
+        }
 
-h2 {
-  background-color: orange;
-  color: green;
-}
+a       {
+        color: grey;
+        text-decoration: none;
+        }
+
+li      {
+        display: inline;
+        padding: 0px 50px 0px 50px;
+        }
+
+ol>li   {
+        background-color: teal;
+        }
