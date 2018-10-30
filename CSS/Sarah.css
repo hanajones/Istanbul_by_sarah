@@ -9,7 +9,6 @@ header {
   background: url("https://lonelyplanetimages.imgix.net/mastheads/64275521.jpg?sharp=10&vib=20&w=1200");
   background-size: cover;
   height: 100%;
-  overflow: hidden; 
 }
 
 p {
