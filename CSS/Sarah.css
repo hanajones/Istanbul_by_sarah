@@ -1,39 +1,45 @@
-h1 {
-  color: #F08080;
-  font-family: helvetica;
-  font-size: 40px;
-    }
-
 header {
-  text-align: center;
-  background: url("https://lonelyplanetimages.imgix.net/mastheads/64275521.jpg?sharp=10&vib=20&w=1200");
-  background-size: cover;
-  height: 100%;
-  overflow: hidden; 
-}
+        text-align: center;
+        color: white;
+        }
 
-p {
-    font-family: helvetica;
-    font-size: 16px;
-    color: blue;
-}
 
-ul {
-  background-color: #FFB6C1;
-  padding: 10px;
-}
 
-li {
-  display: inline;
-  padding: 0px 30px 0px 30px;
+body    {
+        text-align: center;
+        }
 
-}
+h1      {
+        color: white;
+        font-family: sans-serif;
+        font-size: 40px;
+        }
 
-ol>li {
-  background-color: teal;
-}
 
-h2 {
-  background-color: orange;
-  color: green;
-}
+ul      {
+        text-align: center;
+        background: white;
+        color: grey
+        font-family: "sans-serif";
+        font-size: 20px;
+        }
+
+
+
+.topspace{
+        padding-top: 30px;
+        }
+
+a       {
+        color: grey;
+        text-decoration: none;
+        }
+
+li      {
+        display: inline;
+        padding: 0px 50px 0px 50px;
+        }
+
+ol>li   {
+        background-color: teal;
+        }
